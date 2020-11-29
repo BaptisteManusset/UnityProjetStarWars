@@ -7,6 +7,16 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: Batiment
+    second: {fileID: 2100000, guid: a505f79e47e2ec14a9f802c6579607fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Emissive
+    second: {fileID: 2100000, guid: b8c091445d7a628449c335a2bb025198, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: Material
     second: {fileID: 2100000, guid: d0e33ebe348af9f4c88564705dc2c1f8, type: 2}
   - first:
@@ -19,6 +29,21 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: cargo
     second: {fileID: 2100000, guid: 0cc0e002051fb67439077236e10aec53, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: garage
+    second: {fileID: 2100000, guid: 34b2556f750cd814fb55524b61e3876d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ground
+    second: {fileID: 2100000, guid: 09ae36e0fec54004ba5b36b9fb171093, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lamp
+    second: {fileID: 2100000, guid: 2ceb7f7a0876e0b4aa481c232596c218, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
