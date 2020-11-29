@@ -2,8 +2,26 @@ fileFormatVersion: 2
 guid: ca59e2209499b8543ab1d3739fe7f014
 ModelImporter:
   serializedVersion: 19301
-  internalIDToNameTable: []
-  externalObjects: {}
+  internalIDToNameTable:
+  - first:
+      74: -2437316469712852838
+    second: parts_032_low.001|BaseMesh_Man_Simple_Body|Take 001|BaseLayer
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat plaque
+    second: {fileID: 2100000, guid: d53ff8e863653a841ab0a85a66524a08, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: technical
+    second: {fileID: 2100000, guid: 58970bae18a5a35479f778ae16abe51b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wire
+    second: {fileID: 2100000, guid: b4e5018be7e735b41baac467ef2bf211, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0
@@ -81,7 +99,7 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
-    globalScale: 0.005
+    globalScale: 0.5
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0
