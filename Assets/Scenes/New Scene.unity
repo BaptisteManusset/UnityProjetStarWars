@@ -1931,6 +1931,7 @@ Transform:
   - {fileID: 1429242098}
   - {fileID: 2063767520}
   - {fileID: 2045557477}
+  - {fileID: 1988156436}
   m_Father: {fileID: 0}
   m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -2327,7 +2328,7 @@ PrefabInstance:
     - target: {fileID: 1687646256467328169, guid: 8bc98d109d649544eb80e916f16733f9,
         type: 3}
       propertyPath: m_Lightmapping
-      value: 2
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1687646256467328169, guid: 8bc98d109d649544eb80e916f16733f9,
         type: 3}
@@ -4025,6 +4026,96 @@ MonoScript:
   m_ExecutionOrder: 0
   m_ClassName: SceneObjectIDMapSceneAsset
   m_Namespace: UnityEngine.Rendering.HighDefinition
+--- !u!1001 &1988156435
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 854345914}
+    m_Modifications:
+    - target: {fileID: 1687646256467328168, guid: 8bc98d109d649544eb80e916f16733f9,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2.62
+      objectReference: {fileID: 0}
+    - target: {fileID: 1687646256467328168, guid: 8bc98d109d649544eb80e916f16733f9,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.14
+      objectReference: {fileID: 0}
+    - target: {fileID: 1687646256467328168, guid: 8bc98d109d649544eb80e916f16733f9,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -4.74
+      objectReference: {fileID: 0}
+    - target: {fileID: 1687646256467328168, guid: 8bc98d109d649544eb80e916f16733f9,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1687646256467328168, guid: 8bc98d109d649544eb80e916f16733f9,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1687646256467328168, guid: 8bc98d109d649544eb80e916f16733f9,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1687646256467328168, guid: 8bc98d109d649544eb80e916f16733f9,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1687646256467328168, guid: 8bc98d109d649544eb80e916f16733f9,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1687646256467328168, guid: 8bc98d109d649544eb80e916f16733f9,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1687646256467328168, guid: 8bc98d109d649544eb80e916f16733f9,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1687646256467328168, guid: 8bc98d109d649544eb80e916f16733f9,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1687646256467328169, guid: 8bc98d109d649544eb80e916f16733f9,
+        type: 3}
+      propertyPath: m_Lightmapping
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1687646256467328169, guid: 8bc98d109d649544eb80e916f16733f9,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1687646256467328171, guid: 8bc98d109d649544eb80e916f16733f9,
+        type: 3}
+      propertyPath: m_Name
+      value: lampe vaisseau (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1687646256467328171, guid: 8bc98d109d649544eb80e916f16733f9,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8bc98d109d649544eb80e916f16733f9, type: 3}
+--- !u!4 &1988156436 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1687646256467328168, guid: 8bc98d109d649544eb80e916f16733f9,
+    type: 3}
+  m_PrefabInstance: {fileID: 1988156435}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &2026646208
 GameObject:
   m_ObjectHideFlags: 0
